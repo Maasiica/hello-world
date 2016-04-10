@@ -1,4 +1,4 @@
 # hello-world
 The "Beginning of Time" repository
 
-Well, well, well... To bad there aint to much wells here..
+Well, well, well... Too bad there aint to much wells here..
