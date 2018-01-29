@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+  </head>
+  
+<!-- Galvenā daļa--> 
+<!-- PIrmā lapa-->
+  
+  <body>
+   <div class="pirma-lpp text-center">
+     <h1> Conservator </br> (medicus rerum)</br> Born in Riga, raised in a blockhouse</br> Powered by curiosity </h1>
+  </div>
+<!--Otrā lapa -->
+ <div class="row text-center">
+   <div class="col-md-6">
+<h1><i class="fa fa-graduation-cap" aria-hidden="true"></i></h1>
+
+      <p>2016. 4th level professional degree - restorer</br>Riga Building Collage</br>
+        2015. Unfinished Masters degree in arts.</br> Latvian Academy of Culture
+2011. Bachelor degree in arts.</br> Latvian Avademy of Culture
+      </p>
+</div>
+
+<div class="col-md-6">
+      <h1>Praxis<h1> 
+        
+        <p>2017.11. Riga Building College</br>2017. 05. Riga Building College</br> 2016. 09. National library of Latvia</p>
+</div>
+</div>
+<!--Restaurācijas attēli-->
+<img src="">
+  </body>
+</html>
